@@ -1,58 +1,85 @@
 {
   "orderlist": [
     {
-      "id":1,
-      "productname":"Nyke White Boot",
-	  "description":"Nice quality made for boys. It's made by Nyke",
-      "productimg":"./img/origin/item-1.png",
-      "style":"A5MODEL",
-      "color":["red", "green", "blue"],
-	  "colorchoosed":"red",
-	  "sizechoosed":"S",
-      "size":["S", "M", "L"],
-      "qty":1,
-	  "qtyavailable":10,
-      "price":"100.00",
-      "discountprice":20
-    },{
-      "id":2,
-      "productname":"Addidas White Boot",
-	  "description":"Nice quality made for girls. It's made by Addidas",
-      "productimg":"./img/origin/item-2.png",
-      "style":"CX350W",
-      "color":["red", "green", "blue"],
-	  "colorchoosed":"green",
-	  "sizechoosed":"L",
-      "size":["S", "M", "L"],
-      "qty":2,
-	  "qtyavailable":10,
-      "price":"105.00",
-      "discountprice":20
-    },{
-      "id":3,
-      "productname":"Porsh Bedshit",
-	  "description":"This bedshit designed by Porsh Pvt Ltd",
-      "productimg":"./img/origin/item-3.png",
-      "style":"QWE24T",
-      "color":["red", "green", "blue"],
-	  "colorchoosed":"blue",
-	  "sizechoosed":"M",
-      "size":["S", "M", "L"],
-      "qty":3,
-	  "qtyavailable":10,
-      "price":"110.00",
-      "discountprice":20
+      "id": 1,
+      "productname": "Nyke White Boot",
+      "description": "Nice quality made for boys.<br/> It's made by Nyke",
+      "productimg": "./img/origin/item-1.png",
+      "style": "A5MODEL",
+      "color": [
+        "red",
+        "green",
+        "blue"
+      ],
+      "colorchoosed": "red",
+      "sizechoosed": "S",
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "qty": "3",
+      "qtyavailable": 10,
+      "price": "100.00",
+      "discountprice": 20
+    },
+    {
+      "id": 2,
+      "productname": "Addidas White Boot",
+      "description": "Nice quality made for girls.<br/> It's made by Addidas",
+      "productimg": "./img/origin/item-2.png",
+      "style": "CX350W",
+      "color": [
+        "red",
+        "green",
+        "blue"
+      ],
+      "colorchoosed": "green",
+      "sizechoosed": "S",
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "qty": "3",
+      "qtyavailable": 10,
+      "price": "105.00",
+      "discountprice": 20
+    },
+    {
+      "id": 3,
+      "productname": "Porsh Bedshit",
+      "description": "This bedshit designed by Porsh Pvt Ltd",
+      "productimg": "./img/origin/item-3.png",
+      "style": "QWE24T",
+      "color": [
+        "red",
+        "green",
+        "blue"
+      ],
+      "colorchoosed": "blue",
+      "sizechoosed": "L",
+      "size": [
+        "S",
+        "M",
+        "L"
+      ],
+      "qty": "2",
+      "qtyavailable": 10,
+      "price": "150",
+      "discountprice": 20
     }
   ],
   "promolist": [
     {
-		"id":1,
-		"promocode":"QWERT",
-		"amount":20
-	},{
-		"id":2,
-		"promocode":"ASDFG",
-		"amount":30
-	}
-	]
+      "id": 1,
+      "promocode": "QWERT",
+      "amount": 20
+    },
+    {
+      "id": 2,
+      "promocode": "ASDFG",
+      "amount": 30
+    }
+  ]
 }
