@@ -43,5 +43,16 @@
       "price":"110.00",
       "discountprice":20
     }
-  ]
+  ],
+  "promolist": [
+    {
+		"id":1,
+		"promocode":"QWERT",
+		"amount":20
+	},{
+		"id":2,
+		"promocode":"ASDFG",
+		"amount":30
+	}
+	]
 }
