@@ -80,6 +80,26 @@
       "id": 2,
       "promocode": "ASDFG",
       "amount": 30
+    },
+	{
+      "id": 3,
+      "promocode": "GHJKL",
+      "amount": 10
+    },
+	{
+      "id": 4,
+      "promocode": "YUIOP",
+      "amount": 15
+    },
+	{
+      "id": 5,
+      "promocode": "ZXCVB",
+      "amount": 35
+    },
+	{
+      "id": 6,
+      "promocode": "CVBNM",
+      "amount": 25
     }
   ]
 }
